@@ -46,6 +46,7 @@
 * 个人邮箱：scottwang1996@qq.com
 * 个人网站：http://blog.54yongf.com
 * Github: http://github.com/wangyongf
+* 个人简历：http://cv.qiaobutang.com/r/5b1ec6010cf21ad3d94c4f3e
 
 ### 最后说两句
 
