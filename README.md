@@ -51,6 +51,7 @@
 
 - 如果有任何问题，欢迎在我的博客留言，或者在博客的 github 仓库中[提 issue](https://github.com/wangyongf/blog-mds/issues/new)
 - 我正在使用 Atom 编辑器写下这篇文章，感觉写文章(Markdown)的时候用 Atom 太爽啦~墙裂推荐
+- update: Atom 实在是用不下去了，太卡了。还是用我的 code 吧，又好用又快，真香~
 
 ### 最后的最后
 
