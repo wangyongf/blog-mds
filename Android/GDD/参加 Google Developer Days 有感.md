@@ -77,6 +77,6 @@ Tensor2Tensor，一个不知道是啥的看起来很高端的东西，没怎么�
 
 今年 Google 爸爸给每个人发的包包：
 
-![](http://qiniu.54yongf.com/picgo/20180925012243.png)
+![包包](http://qiniu.54yongf.com/picgo/20180925012243.png)
 
 拍的不好，还请见谅
