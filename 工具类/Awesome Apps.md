@@ -192,6 +192,52 @@
 - 是否免费
   - 免费（免费、付费、免费下载内购）
 
+### 3.7 Ulauncher
+
+- 简介
+  - Application launcher for Linux
+- 官网
+  - http://ulauncher.io
+- platform
+  - Linux
+- 是否免费
+  - 免费
+
+### 3.8 Mutate
+
+- 简介
+  - A simple launcher inspired by Alfred for ubuntu and Fedora.
+- 官网
+  - https://github.com/qdore/Mutate
+- platform
+  - Linux
+- 是否免费
+  - 免费
+
+### 3.9 Albert
+
+- 简介
+  - A fast and flexible keyboard launcher
+- 官网
+  - https://albertlauncher.github.io
+- platform
+  - Linux
+- 是否免费
+  - 免费
+
+### 3.10 Cerebro
+
+- 简介
+  - Cerebro - Productivity booster with a brain...
+- 官网
+  - https://cerebroapp.com
+- platform
+  - Linux
+  - Mac
+  - Windows
+- 是否免费
+  - 免费开源
+
 ## 4. Design 设计类
 
 ### 4.1 Framer
