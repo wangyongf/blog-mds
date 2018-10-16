@@ -196,6 +196,10 @@
 
 - 简介
   - Application launcher for Linux
+- 标签
+  - Launcher
+  - Alfred
+  - 启动器
 - 官网
   - http://ulauncher.io
 - platform
@@ -207,6 +211,10 @@
 
 - 简介
   - A simple launcher inspired by Alfred for ubuntu and Fedora.
+- 标签
+  - Launcher
+  - Alfred
+  - 启动器
 - 官网
   - https://github.com/qdore/Mutate
 - platform
@@ -218,6 +226,10 @@
 
 - 简介
   - A fast and flexible keyboard launcher
+- 标签
+  - Launcher
+  - Alfred
+  - 启动器
 - 官网
   - https://albertlauncher.github.io
 - platform
@@ -229,8 +241,29 @@
 
 - 简介
   - Cerebro - Productivity booster with a brain...
+- 标签
+  - Launcher
+  - Alfred
+  - 启动器
 - 官网
   - https://cerebroapp.com
+- platform
+  - Linux
+  - Mac
+  - Windows
+- 是否免费
+  - 免费开源
+
+### 3.11 Zazu
+
+- 简介
+  - A fully extensible and open source launcher for hackers, creators and dabblers.
+- 标签
+  - Launcher
+  - Alfred
+  - 启动器
+- 官网
+  - http://zazuapp.org/
 - platform
   - Linux
   - Mac
